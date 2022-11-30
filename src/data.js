@@ -3,7 +3,7 @@
 const details = [
     {
         id: 1,
-        text:"Born in an almost poor familly, studied hardly, but all I could was keeping hope up and never abandone what I fighting for. Trying all my best, the same year I got my diploma, my father lost the small work that we were living for. However I couldn't go at univarsity coz nobody could pay for me acadenic years. I decided to never lay my self down. Daddy gave me the few monney he earned for the last time and i payed it in a mecanic appartement where I learned driving and reparing car for living. That wasn't suffisant for me and my familly but I shouldn't abandon coz there was nothing more to do."
+        text:"Born in an almost poor familly, studied hardly, but all I could was keeping hope up and never abandone what I fight for. Trying all my best, the same year I got my diploma, my father lost the small work that we were living for. However I couldn't go at univarsity coz nobody could pay for me acadenic years. I decided to never lay my self down. Daddy gave me the few monney he earned for the last time and i payed it in a mecanic appartement where I learned driving and reparing car for living. That wasn't suffisant for me and my familly but I shouldn't abandon coz there was nothing more to do."
     },
     {
         id: 2,

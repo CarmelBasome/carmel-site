@@ -67,10 +67,14 @@ a:hover{
   text-transform: capitalize;
   padding: 2rem 0px 0px 0rem;
 }
+p{
+  letter-spacing: 1.5px;
+  line-height: 2.8rem;
+  font-size: 2rem;
+}
 
 .img-section{
   display: block;
-  font-size: calc(10px + 2vmin);
 }
 
 .carmel-img {
@@ -315,4 +319,16 @@ textarea{
 }
 .delete-btn {
   color: gray;
+}
+
+@media screen and (max-width: 700px){
+  input{
+    width: 80%;
+    height: 2rem;
+    background: rgb(218, 214, 214);
+  }
+  textarea{
+    width: 80%;
+    height: 4rem;
+  }
 }
